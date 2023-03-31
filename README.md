@@ -6,7 +6,7 @@ Currently I'm seeking a project-focused team where I can leverage my skills in r
 
 I'm curious, creative, and driven. (I started off as a truck stop waitress. Now I have a PhD from Princeton.) Throughout my career, I have quickly and independently learned new tools and methods because I love intellectual challenges. Furthermore, I excel in building empathetic relationships with stakeholders. My colleagues describe me as conscientious, genuine, and compassionate.
 
-### Tech Stack
+### Programming Languages
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
