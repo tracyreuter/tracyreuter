@@ -1,4 +1,4 @@
-### I'm a Data Scientist with 10+ years experience in behavioral science, healthcare, and psycholinguistics. 
+### I'm a Data Scientist with 10+ years' experience in behavioral science, healthcare, and psycholinguistics. 
 
 Currently I'm seeking a project-focused team where I can leverage my skills in research design, predictive modeling, programming, and data visualization to support customers' health and wellbeing.
 
