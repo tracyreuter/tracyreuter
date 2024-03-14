@@ -1,11 +1,3 @@
-### I'm a Data Scientist with expertise in healthcare, natural language processing, and machine learning. 
+### I’m a Data Science leader with expertise in healthcare, machine learning, and natural language processing.
 
-I'm curious, creative, and driven. (I started off as a truck stop waitress. Now I have a PhD from Princeton.) Throughout my career, I have quickly and independently learned new tools and methods because I love intellectual challenges. Furthermore, I excel in building empathetic relationships with stakeholders. My colleagues describe me as conscientious, genuine, and compassionate.
-
-### Highlights from my skillset include:
-- **Natural Language Processing (NLP):** speech to text, sentiment analysis, document clustering (topic modeling)
-- **Machine Learning (ML):** feature selection, dimensionality reduction (PCA), model selection (regression, classification, clustering), hyperparameter tuning, model training, model evaluation (cross-validation, AIC/BIC)
-- **Programming:** SQL, R, Python, Git
-- **Data Preparation:** tidyverse, dplyr, stringr, numpy, pandas, reticulate
-- **Data Visualization:** R markdown, ggplot2, matplotlib, seaborn
-- **Communication:** Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at explaining complex ideas in clear terms.
+Above all, I’m a tenacious problem-solver. (I went from truck stop waitress to Princeton PhD.) As a leader, I coach my direct reports beyond their comfort zone to achieve their unique goals. Mentees summarize my style as engaging, responsive, and “the perfect balance of instruction and independence.” Similarly, my colleagues describe me as collaborative, kind, and “the ultimate team player” because I blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at explaining complex ideas in clear terms.
