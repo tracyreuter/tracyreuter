@@ -1,6 +1,6 @@
 ### About Me
 
-Above all, I am a tenacious problem-solver. [Truck stop waitress -> Princeton PhD.] I have 10+ years of experience building data science solutions [AI, ML, NLP]. Currently I lead end-to-end projects to support the health and wellbeing of 2+ million members. Although I enjoy working with data, my true passion is teaching. Mentees and colleagues commend my ability to blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at clearly explaining complex ideas.
+Above all, I am a tenacious problem-solver. [Truck stop waitress -> Princeton PhD.] With 10+ years of data science experience [AI, ML, NLP] I now support the health and wellbeing of 2+ million members. Although I enjoy data, my true passion is teaching. Mentees and colleagues commend my ability to blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at clearly explaining complex ideas.
 
 Highlights from my skillset include:
 - Programming: SQL, Python [pandas, numpy, scipy, scikit-learn, tensorflow, keras, statsforecast, nltk, spacy, matplotlib, seaborn, plotnine], R, Git, Bitbucket, AWS, Snowflake, Jira, Confluence
