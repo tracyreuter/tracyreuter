@@ -1,4 +1,4 @@
-### Hello! Nice to e-meet you.
+### About Me
 
 Above all, I am a tenacious problem-solver. [Truck stop waitress -> Princeton PhD.] I have 10+ years of experience building data science solutions [AI, ML, NLP]. Currently I lead end-to-end projects [demand forecasting, capacity planning, customer segmentation, etc.] to support the health and wellbeing of 2+ million members. Although I enjoy working with data, my true passion is teaching. Mentees and colleagues commend my ability to blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at clearly explaining complex ideas.
 
