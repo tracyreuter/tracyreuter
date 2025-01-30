@@ -1,6 +1,6 @@
 ### About Me
 
-Above all, I'm a tenacious problem-solver. [Truck stop waitress -> Princeton PhD.] With 10+ years of data science experience, I now support the health and wellbeing of 2+ million TimelyCare members. Although I enjoy data, my real passion is teaching. Mentees and colleagues commend my ability to blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at clearly explaining complex ideas.
+Above all, I'm a tenacious problem-solver. [Truck stop waitress -> Princeton PhD.] With 10+ years of data science experience, I now support the wellbeing of 2M+ TimelyCare members. Although I enjoy data, my real passion is teaching. Mentees and colleagues commend my ability to blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at clearly explaining complex ideas.
 
 Highlights from my skillset include:
 - Programming: SQL, Python [pandas, numpy, scipy, scikit-learn, tensorflow, keras, statsforecast, nltk, spacy, matplotlib, seaborn, plotnine], R, Git, Bitbucket, AWS, dbt, Snowflake, Jira, Confluence
