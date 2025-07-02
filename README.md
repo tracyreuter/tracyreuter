@@ -1,6 +1,6 @@
 ### About Me
 
-Above all, I am a tenacious problem-solver. [Truck stop waitress -> Princeton PhD.] I have 10+ years of experience as a Data Scientist in academia, healthcare, and higher education. Although I enjoy data, my real passion is teaching. Mentees and colleagues commend my ability to blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at clearly explaining complex ideas.
+Above all, I am a tenacious problem solver. [Truck stop waitress -> Princeton PhD.] I have 10+ years of experience as a Data Scientist in academia, healthcare, and higher education. Although I enjoy data, my real passion is teaching. Mentees and colleagues commend my ability to blend technical precision with empathetic communication. Families literally let me shoot lasers into their babies’ brains – for science! – because I excel at clearly explaining complex ideas.
 
 Highlights from my skillset include:
 - Programming: SQL, Python [pandas, numpy, scipy, scikit-learn, tensorflow, keras, statsforecast, nltk, spacy, matplotlib, seaborn, plotnine], R, Git, Bitbucket, AWS, dbt, Snowflake, Jira, Confluence
